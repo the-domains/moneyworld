@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-07T19:16:05.583Z'
+datePublished: '2016-07-07T19:23:39.962Z'
 sourcePath: _posts/2016-04-28-travel-love.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/71319358'
@@ -10,8 +10,8 @@ author:
   - name: Christian Grewe
     url: 'http://vimeo.com/christiangrewe'
     avatar: {}
-dateModified: '2016-07-07T19:16:04.503Z'
-title: TRAVEL LOVE
+dateModified: '2016-07-07T19:23:38.013Z'
+title: Како-такой
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/71319358'
     type: ios
@@ -44,17 +44,20 @@ publisher:
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-description: >-
-  This is Travel Footage from eight countries. Chile, Bolivia, Peru, Uruguay,
-  Argentina, Vietnam, Cambodia and Thailand. Please, follow me on Facebook! It
-  would be nice to have friends from all over the planet;)
-  https://www.facebook.com/christian.grewe.75 + this one for more clips!
-  https://www.facebook.com/chrisgreweffm.de?fref=ts Travel more and influence
-  our world with positive energy!
+description: Проба гребаного
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+# Како-такой
+
+# мавлин
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F71319358&amp;url=https%3A%2F%2Fvimeo.com%2F71319358&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F445279158_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+Проба гребаного
+
+1. грида 
+2. и прочего
