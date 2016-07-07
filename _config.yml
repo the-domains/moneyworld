@@ -6,9 +6,9 @@ color:
   saturation: 0.8198352337349206
   rhythmicContrast: 0.5921059360262007
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: moneyworld
