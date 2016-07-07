@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-07T10:04:27.379Z'
+datePublished: '2016-07-07T19:16:05.583Z'
 sourcePath: _posts/2016-04-28-travel-love.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/71319358'
@@ -10,7 +10,7 @@ author:
   - name: Christian Grewe
     url: 'http://vimeo.com/christiangrewe'
     avatar: {}
-dateModified: '2016-07-07T10:04:22.210Z'
+dateModified: '2016-07-07T19:16:04.503Z'
 title: TRAVEL LOVE
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/71319358'
@@ -52,7 +52,7 @@ description: >-
   https://www.facebook.com/chrisgreweffm.de?fref=ts Travel more and influence
   our world with positive energy!
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: VideoObject
 
