@@ -1,0 +1,14 @@
+layout_spectrum: 0.28446032549254596
+typography_spectrum: 0.768021791940555
+color:
+  brandStrength: 0.49021385214291513
+  lightness: 0.5868416889570653
+  saturation: 0.8198352337349206
+  rhythmicContrast: 0.5921059360262007
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: moneyworld
